@@ -1,6 +1,6 @@
 # blog_app
 
-A new Flutter project.
+A .
 
 ## Getting Started
 
