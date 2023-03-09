@@ -1,6 +1,6 @@
 # blog_app
 
-A .
+A Blog app created using flutter.
 
 ## Getting Started
 
